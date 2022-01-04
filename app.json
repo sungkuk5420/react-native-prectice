@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-practice",
+    "slug": "react-native-practice",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-practice"
+}
